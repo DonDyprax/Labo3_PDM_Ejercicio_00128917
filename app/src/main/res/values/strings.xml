@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratorio03_PDM_Ejercicio_00128917</string>
+    <string name="action_button_send">Send</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">E-mail</string>
+    <string name="btn_share">Share</string>
+</resources>
